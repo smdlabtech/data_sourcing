@@ -1,8 +1,8 @@
 # 📂 RÉPERTOIRE DE DONNÉES PUBLIQUES PARTAGÉES PAR DES TIERS  
 
-![Google Drive](https://img.shields.io/badge/Storage-Google_Drive-blue?style=flat&logo=google-drive)  
-![Open Data](https://img.shields.io/badge/Open_Data-Public_Access-green?style=flat&logo=databricks)  
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Data_Owner-informational?style=flat&logo=linkedin&color=blue)  
+![Google Drive](https://img.shields.io/badge/Storage-Google_Drive-blue?style=flat&logo=google-drive)
+![Open Data](https://img.shields.io/badge/Open_Data-Public_Access-green?style=flat&logo=databricks) 
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Data_Owner-informational?style=flat&logo=linkedin&color=blue)
 
 ---
 
